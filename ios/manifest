@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0.2
+version: 1.1.0
 architectures: 
 description: Adds support for most of the common PHP functions, as ported by the PHP JS project phpjs.org, into the Ti.PHP namespace.
 author: Appcelerator Inc
